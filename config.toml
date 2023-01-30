@@ -1,4 +1,4 @@
 baseURL = 'https://SimonDemolin.github.io/Blog/'
 languageCode = 'en-us'
 title = 'Blog'
-theme = "aether"
+theme = 'aether'
